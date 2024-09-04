@@ -1,3 +1,10 @@
+!pip install selenium
+!pip install webdriver-manager
+!pip install wordcloud
+!pip install streamlit
+!pip install langchain-google-genai
+!pip install google-generativeai
+!pip install langchain
 import streamlit as st
 import pandas as pd
 from selenium import webdriver
